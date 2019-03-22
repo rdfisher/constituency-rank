@@ -1,0 +1,15 @@
+{
+    "name": "rdfisher/constituency-rank",
+    "type": "project",
+    "require": {
+        "react/event-loop": "^1.1",
+        "react/http": "^0.8.4",
+        "clue/buzz-react": "^2.5"
+    },
+    "authors": [
+        {
+            "name": "Richard Fisher",
+            "email": "richarddfisher1981@gmail.com"
+        }
+    ]
+}
